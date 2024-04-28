@@ -1,0 +1,416 @@
+@media(max-width:1400px) {
+    
+    .shahsiz{
+        font-size: 14px;
+    }
+    .title{
+        margin: 15px 0;
+    }
+    .syorfin{
+        width: 600px;
+    }
+    .footer .nav_box {
+        
+    }
+    .img {
+        margin: 15px 0 34px;
+    }
+    .scyt-fon {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .title {
+        display: flex;
+        justify-content: center;
+        font-size: 16px;
+
+    }
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .tex_box-first{
+        padding: 5px;
+    }
+    .tex {
+        width: 35%;
+        justify-content: start;
+        font-size: 12px;
+    }
+    .tex_box-title{
+        font-size: 14px;
+        line-height: normal;
+        padding-bottom: 5px; 
+    }
+    .tex_box {
+        order: 1;
+        padding: 5px 5px 8px;
+    }
+    .tex-blue {
+        border-radius: 5px;
+    }
+    .tex-green {
+        border-radius: 5px;
+    }
+    .main_text-inside {
+        flex-wrap: wrap;
+        gap: 12px;
+        padding: 0 2px;
+       
+    }
+    .img_text {
+        gap: 30px;
+        font-size: 14px;
+        overflow-x: scroll;
+        height: 200px;
+    }
+    .links {
+        flex-wrap: wrap;
+    }
+    .nike{
+        font-size: 17px;
+    }
+    .nik{
+        font-size: 17px;
+    }
+    .logo{
+        width: 150px;
+    }
+}
+@media(max-width:1300px) {
+    .syorfin{
+        width: 580px;
+    }
+    .main_text-inside {
+        gap: 11px;
+    }
+    
+    .title{
+        margin: 14px 0;
+    }
+    
+}
+@media(max-width:1200px) {
+    .syorfin{
+        width: 560px;
+    }
+    .main_text-inside {
+        gap: 10px;
+    }
+    .llogo{
+        width: 140px;
+    }
+    .nike{
+        font-size: 16px;
+    }
+    .title{
+        margin: 13px 0;
+    }
+    .img {
+        margin: 14px 0 32px;
+    }  
+}
+@media(max-width:1150px) {
+    .syorfin{
+        width: 540px;
+    }
+    .main_text-inside {
+        gap: 9px;
+    }
+    .logo{
+        width: 140px;
+    }
+    .title{
+        margin: 12px 0;
+    }
+    
+    
+    .llogo{
+        width: 130px;
+    }
+    .nike{
+        font-size: 15px;
+    }
+    .nik{
+        font-size: 16px;
+    }
+    
+}
+@media(max-width:1100px) {
+    .syorfin{
+        width: 520px;
+    }
+    .img {
+        margin: 11px 0 26px;
+    }
+    .main_text-inside {
+        gap: 8px;
+    }
+    .logo{
+        width: 130px;
+    }
+    .llogo{
+        width: 120px;
+    }
+    .nike{
+        font-size: 14px;
+    }
+    .title{
+        margin: 11px 0;
+    }
+    .nik{
+        font-size: 15px;
+    }
+    
+}
+@media(max-width:1050px) {
+    .syorfin{
+        width: 500px;
+    }
+    .img {
+        margin: 10px 0 24px;
+    }
+    .main_text-inside {
+        gap: 7px;
+    }
+    .title{
+        margin: 10px 0;
+    }
+    .logo{
+        width: 120px;
+    }
+    .llogo{
+        width: 110px;
+    }
+    .nike{
+        font-size: 13px;
+    }
+    .nik{
+        font-size: 14px;
+    }
+    
+}
+@media(max-width:1000px) {
+    .ologo{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+    .img {
+        margin: 12px 0 30px;
+    }
+    
+    .syorfin{
+        width: 480px;
+    }
+    .main_text-inside {
+        gap: 6px;
+    }
+    .logo{
+        width: 110px;
+    }
+ 
+    .img_title{
+    font-size: 16px;
+    margin: auto;
+}
+    .llogo{
+        width: 100px;
+    }
+    
+    .footer .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .nike{
+        font-size: 12px;
+    }
+    .title{
+        margin: 9px 0;
+    }
+    .nik{
+        font-size: 13px;
+    }
+    .menu img{
+        width: 26px;
+    }
+}
+@media(max-width:950px) {
+    .syorfin{
+        width: 460px;
+    }
+    .main_text-inside {
+        gap: 5px;
+    }
+    .logo{
+        width: 100px;
+    }
+    .menu img{
+        width: 24px;
+    }
+    .llogo{
+        width: 95px;
+    }
+    .title{
+        margin: 8px 0;
+    }
+    
+}
+@media(max-width:900px) {
+    .syorfin{
+        width: 440px;
+    }
+    .menu {
+        display: block;
+        width: 28px;
+    }
+    .llogo{
+        width: 90px;
+    }
+    .nav_links {
+    display: none;
+    }
+    .main_text-inside {
+        gap: 4px;
+    }
+    .title{
+        margin: 7px 0;
+    }
+    .menu img{
+        width: 22px;
+    }
+    .nav_box{
+        width: unset;
+    }
+}
+@media(max-width:850px) {
+    .syorfin{
+        width: 420px;
+    }
+    .img {
+        margin: 10px 0 28px;
+    }
+    .llogo{
+        width: 85px;
+    }
+    
+    .main_text-inside {
+        gap: 3px;
+    }
+    .title{
+        margin: 6px 0;
+    }
+    .menu img{
+        width: 20px;
+    }
+}
+@media(max-width:750px) {
+    .main_text-inside {
+        flex-wrap: nowrap;
+        overflow: hidden;
+        overflow-x: scroll;
+        gap: 2px;
+       
+    }
+    .llogo{
+        width: 80px;
+    }
+    .menu img{
+        width: 18px;
+    }
+    .text-scroll{
+        height: 120px;
+        overflow-x: scroll;
+    }
+    .tex_box-text{
+        overflow-x: scroll;
+    }
+    .tex{
+        flex-shrink: 0;
+        width: 150px;
+
+    }
+    .title{
+        margin: 5px 0;
+    }
+    .tex-blue {
+        border-radius: 0;
+    }
+    .syorfin{
+        width: 70%;
+    }
+    .tex-green {
+        border-radius: 0;
+    }
+    
+    .shahsiz{
+        font-size: 12px;
+    }
+    
+    .nike{
+        font-size: 12px;
+    }
+    .nik{
+        font-size: 14px;
+    }
+}
+@media(max-width:600px) {
+    .main_text-inside {
+        gap: 1px;
+        justify-content: flex-start;
+    }
+    .img {
+        margin: 10px 0 26px;
+    }
+    .llogo{
+        width: 75px;
+    }
+    .title{
+        margin: 4px 0;
+    }
+}
+@media(max-width:500px) {
+    .main_text-inside {
+        gap: 0;
+    }
+    .llogo{
+        width: 70px;
+    }
+        .img_title{
+            font-size: 14px;
+            margin: auto;
+        }
+        
+        .img_text {
+            gap: 10px;
+            font-size: 12px;
+        }
+        .title{
+            font-size: 14px;
+        }
+        .menu img{
+            width: 16px;
+        }
+}
+
+@media(max-width:400px) {
+    
+    .title{
+        margin: 3px 0;
+    }
+    .menu img{
+        width: 14px;
+    }
+    .img {
+        margin: 10px 0 24px;
+    }
+}
+@media(max-width:320px) {
+    .img {
+        margin: 10px 0 22px;
+    }
+}
